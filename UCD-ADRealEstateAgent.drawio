@@ -1,0 +1,391 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="EmtREpnJ_5TDIO0ZiXFz">
+    <mxGraphModel dx="367" dy="235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KVGwbhMKAkdo429nk7-W-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1407" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1237" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-30" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="420" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-3" value="A Real Estate Agent Inc (AREI)" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="180" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-4" value="Seller" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-10" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-9">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-11" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-9">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-12" value="Sign Contract" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="453" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-14" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-13">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-15" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-13">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-16" value="Submit House Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-17" value="Update House Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="385" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-19" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-18">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-20" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-18">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-21" value="Real Estate Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-22" value="Print&amp;nbsp;&lt;div&gt;House Details&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="296.5" as="sourcePoint" />
+            <mxPoint x="910" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-24" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-23">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-25" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-23">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-26" value="Search Listings for Buyers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KVGwbhMKAkdo429nk7-W-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="293" as="sourcePoint" />
+            <mxPoint x="930" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-28" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-27">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-29" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-27">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-31" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-32" value="Search&amp;nbsp;&lt;div&gt;for Houses&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="470" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-34" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-33">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-35" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-33">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-36" value="Fill out buyer information form" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="490" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-38" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-37">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-39" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-37">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-41" value="Receive House Recommendation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="510" as="sourcePoint" />
+            <mxPoint x="490" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-43" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-42">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-44" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-42">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-45" value="&amp;lt;&amp;lt;Actor&amp;gt;&amp;gt;&lt;div&gt;System&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-47" value="Store House and Buyer Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-48" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KVGwbhMKAkdo429nk7-W-47" target="KVGwbhMKAkdo429nk7-W-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="465" as="sourcePoint" />
+            <mxPoint x="930" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-49" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-48">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-50" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-48">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KVGwbhMKAkdo429nk7-W-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="490" as="sourcePoint" />
+            <mxPoint x="880" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-52" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-51">
+          <mxGeometry x="-0.5838" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-53" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVGwbhMKAkdo429nk7-W-51">
+          <mxGeometry x="0.5114" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-54" value="Send House Detail to the service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-55" value="Seller Listing Houses" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="770" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#545454;" vertex="1" parent="1">
+          <mxGeometry x="566" y="810" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="844" as="sourcePoint" />
+            <mxPoint x="580" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-59" value="Sign Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="880" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.476;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="930" as="sourcePoint" />
+            <mxPoint x="580" y="966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-61" value="Provides House Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.476;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.486;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-63" source="KVGwbhMKAkdo429nk7-W-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1020" as="sourcePoint" />
+            <mxPoint x="580" y="1056" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-63" value="AREI Stores Detail in Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1060" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.476;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.469;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-65" source="KVGwbhMKAkdo429nk7-W-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1110" as="sourcePoint" />
+            <mxPoint x="580" y="1146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-65" value="Subset of Details sent to MLS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1150" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#545454;" vertex="1" parent="1">
+          <mxGeometry x="566" y="1240" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="582.55" y="1200" as="sourcePoint" />
+            <mxPoint x="582.55" y="1236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-70" value="Buyer searching for a house" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="770" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#545454;" vertex="1" parent="1">
+          <mxGeometry x="903" y="800" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="919.72" y="834" as="sourcePoint" />
+            <mxPoint x="919.72" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-74" value="Interest in one specific house" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KVGwbhMKAkdo429nk7-W-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.78" y="920" as="sourcePoint" />
+            <mxPoint x="920" y="950" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-76" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="950" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0.053;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="970" as="sourcePoint" />
+            <mxPoint x="895" y="974.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0.902;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KVGwbhMKAkdo429nk7-W-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941" y="980" as="sourcePoint" />
+            <mxPoint x="1040" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-79" value="[Yes]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="835" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-80" value="[No]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="970" as="sourcePoint" />
+            <mxPoint x="830" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="970" as="sourcePoint" />
+            <mxPoint x="1040" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-86" value="Seek AREI&#39;s&amp;nbsp;&lt;div&gt;Advice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1039.6" y="1090" as="sourcePoint" />
+            <mxPoint x="1040" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-88" value="Complete Buyer Information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1039.7199999999998" y="1190" as="sourcePoint" />
+            <mxPoint x="1040.12" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-90" value="AREI uses information to find matching houses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-91" value="&amp;nbsp;AREI searches for the desired house" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-93" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829.67" y="1350" as="sourcePoint" />
+            <mxPoint x="829.67" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-94" value="AREI prints result for Buyers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1350" as="sourcePoint" />
+            <mxPoint x="1039.72" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1350" as="sourcePoint" />
+            <mxPoint x="940" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="1350" as="sourcePoint" />
+            <mxPoint x="1000" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KVGwbhMKAkdo429nk7-W-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="929.67" y="1380" as="sourcePoint" />
+            <mxPoint x="930" y="1400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVGwbhMKAkdo429nk7-W-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#545454;" vertex="1" parent="1">
+          <mxGeometry x="913" y="1410" width="34" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
